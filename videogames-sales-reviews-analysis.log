@@ -1,0 +1,31 @@
+[{"stream_name":"stdout","time":10.730139286,"data":"/kaggle/input/global-video-game-sales-and-reviews/Video Games Sales.csv\n"}
+,{"stream_name":"stdout","time":10.861017938,"data":"Missing Values:\n"}
+,{"stream_name":"stdout","time":10.861072215,"data":" index             0\n"}
+,{"stream_name":"stdout","time":10.861080905,"data":"Rank              0\n"}
+,{"stream_name":"stdout","time":10.861086955,"data":"Game Title        0\n"}
+,{"stream_name":"stdout","time":10.861093077,"data":"Platform          0\n"}
+,{"stream_name":"stdout","time":10.861098892,"data":"Year             29\n"}
+,{"stream_name":"stdout","time":10.861104126,"data":"Genre             0\n"}
+,{"stream_name":"stdout","time":10.86110977,"data":"Publisher         2\n"}
+,{"stream_name":"stdout","time":10.86111524,"data":"North America     0\n"}
+,{"stream_name":"stdout","time":10.861120764,"data":"Europe            0\n"}
+,{"stream_name":"stdout","time":10.861126201,"data":"Japan             0\n"}
+,{"stream_name":"stdout","time":10.861132087,"data":"Rest of World     0\n"}
+,{"stream_name":"stdout","time":10.861137897,"data":"Global            0\n"}
+,{"stream_name":"stdout","time":10.861143412,"data":"Review            0\n"}
+,{"stream_name":"stdout","time":10.861163807,"data":"dtype: int64\n"}
+,{"stream_name":"stderr","time":18.86839855,"data":"/opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":18.868492795999998,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":18.87752142,"data":"[NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.\n"}
+,{"stream_name":"stderr","time":18.911743861,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":19.457615073,"data":"[NbConvertApp] Writing 138331 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":21.679505018,"data":"/opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":21.679572526,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":21.683535702,"data":"[NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.\n"}
+,{"stream_name":"stderr","time":21.727250427,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":22.921235126,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":22.921594706,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":22.92175569,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":22.922095748,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":22.922428462,"data":"[NbConvertApp] Writing 290540 bytes to __results__.html\n"}
+]
